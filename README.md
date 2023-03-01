@@ -1,0 +1,5 @@
+# Projeto Carde Produtos
+
+![]()
+
+Este projeto é um exemplo de um site de e-commerce, desenvolvido como parte do curso de Front-End da EBAC (Escola Britânica de Artes Criativas e Tecnologia). O objetivo do projeto é fornecer aos alunos a oportunidade de aplicar seus conhecimentos em HTML, CSS e JavaScript, bem como em técnicas de design responsivo e acessibilidade, para criar um layout atrativo e funcional. O site apresenta uma seleção de produtos da marca Apple, com imagens, descrições, preços e botões de compra, além de um carrossel de imagens que permite visualizar diferentes ângulos dos produtos. O código HTML é estruturado de forma semântica, e o CSS é utilizado para estilizar o layout e criar animações, enquanto o JavaScript é utilizado para implementar interações do usuário e funcionalidades, como o carrossel de imagens e o botão de adicionar ao carrinho. No geral, este projeto serve como um excelente exemplo de como a programação front-end pode ser utilizada para criar sites atraentes e funcionais que atendem às necessidades do usuário.
