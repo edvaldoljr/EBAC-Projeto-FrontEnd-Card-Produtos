@@ -1,4 +1,4 @@
-# Projeto Carde Produtos
+# Projeto Card's Produtos
 
 ![](https://github.com/edvaldoljr/EBAC-Projeto-FrontEnd-Card-Produtos/blob/main/img/img-projeto.gif?raw=true)
 
